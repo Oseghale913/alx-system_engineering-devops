@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This script creates alias file
